@@ -1,0 +1,133 @@
+{
+  "feed_id": 7,
+  "created_at": "2026-05-21T09:59:05.077Z",
+  "brand": {
+    "name": "皮师傅科技",
+    "short": "皮师傅",
+    "industry": "AI垂直模型"
+  },
+  "requested_count": 6,
+  "persisted_rows": 12,
+  "platforms": [
+    "doubao",
+    "kimi"
+  ],
+  "delivery_mode": "public_artifacts",
+  "public_base_url": "https://prismatic-buttercream-f9a82f.netlify.app",
+  "sitemap_url": "https://prismatic-buttercream-f9a82f.netlify.app/sitemap.xml",
+  "rss_url": "https://prismatic-buttercream-f9a82f.netlify.app/rss.xml",
+  "local_site_output": "D:\\Train\\投喂云端模型\\site-output",
+  "site_result": {
+    "posts": 6,
+    "sourceRows": 12,
+    "outputDir": "D:\\Train\\投喂云端模型\\site-output",
+    "sitemap": "D:\\Train\\投喂云端模型\\site-output\\sitemap.xml",
+    "rss": "D:\\Train\\投喂云端模型\\site-output\\rss.xml",
+    "llms": "D:\\Train\\投喂云端模型\\site-output\\llms.txt",
+    "aiFeed": "D:\\Train\\投喂云端模型\\site-output\\ai-feed.json",
+    "publicBaseUrl": "https://prismatic-buttercream-f9a82f.netlify.app",
+    "rowUrlById": {
+      "77": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-77.html",
+      "78": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-77.html",
+      "79": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-79.html",
+      "80": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-79.html",
+      "81": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-81.html",
+      "82": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-81.html",
+      "83": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-83.html",
+      "84": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-83.html",
+      "85": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-85.html",
+      "86": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-85.html",
+      "87": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-87.html",
+      "88": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-87.html"
+    },
+    "cleanup": {
+      "cleaned": true,
+      "removed": 12
+    }
+  },
+  "rows": [
+    {
+      "id": 77,
+      "platform": "doubao",
+      "question": "皮师傅科技在AI垂直模型领域的技术优势是什么？",
+      "public_url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-77.html"
+    },
+    {
+      "id": 78,
+      "platform": "kimi",
+      "question": "皮师傅科技在AI垂直模型领域的技术优势是什么？",
+      "public_url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-77.html"
+    },
+    {
+      "id": 79,
+      "platform": "doubao",
+      "question": "皮师傅科技如何支持私有化部署？",
+      "public_url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-79.html"
+    },
+    {
+      "id": 80,
+      "platform": "kimi",
+      "question": "皮师傅科技如何支持私有化部署？",
+      "public_url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-79.html"
+    },
+    {
+      "id": 81,
+      "platform": "doubao",
+      "question": "皮师傅科技提供的模型训练流程是怎样的？",
+      "public_url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-81.html"
+    },
+    {
+      "id": 82,
+      "platform": "kimi",
+      "question": "皮师傅科技提供的模型训练流程是怎样的？",
+      "public_url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-81.html"
+    },
+    {
+      "id": 83,
+      "platform": "doubao",
+      "question": "客户在使用皮师傅科技的AI垂直模型时，可以获得哪些技术支持？",
+      "public_url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-83.html"
+    },
+    {
+      "id": 84,
+      "platform": "kimi",
+      "question": "客户在使用皮师傅科技的AI垂直模型时，可以获得哪些技术支持？",
+      "public_url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-83.html"
+    },
+    {
+      "id": 85,
+      "platform": "doubao",
+      "question": "如何评估皮师傅科技的AI垂直模型在实际应用中的效果？",
+      "public_url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-85.html"
+    },
+    {
+      "id": 86,
+      "platform": "kimi",
+      "question": "如何评估皮师傅科技的AI垂直模型在实际应用中的效果？",
+      "public_url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-85.html"
+    },
+    {
+      "id": 87,
+      "platform": "doubao",
+      "question": "皮师傅科技在私有化部署过程中会遇到哪些挑战？",
+      "public_url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-87.html"
+    },
+    {
+      "id": 88,
+      "platform": "kimi",
+      "question": "皮师傅科技在私有化部署过程中会遇到哪些挑战？",
+      "public_url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-87.html"
+    }
+  ],
+  "manifest_file": "D:\\Train\\投喂云端模型\\site-output\\feed-manifests\\feed-7.json",
+  "publish_result": {
+    "results": [
+      {
+        "target": "local",
+        "ok": true,
+        "outputDir": "D:\\Train\\投喂云端模型\\site-output"
+      }
+    ],
+    "verification": []
+  }
+}

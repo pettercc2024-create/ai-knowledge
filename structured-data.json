@@ -2,44 +2,44 @@
   "@context": "https://schema.org",
   "@type": "ItemList",
   "name": "皮师傅AI知识库问答列表",
-  "url": "https://pishifu.com",
-  "dateModified": "2026-05-21T09:53:40.638Z",
+  "url": "https://prismatic-buttercream-f9a82f.netlify.app",
+  "dateModified": "2026-05-21T09:59:05.039Z",
   "itemListElement": [
     {
       "@type": "ListItem",
       "position": 1,
-      "url": "https://pishifu.com/posts/qa-53.html",
-      "name": "皮师傅科技在AI垂直模型领域的技术水平如何？"
+      "url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-81.html",
+      "name": "皮师傅科技提供的模型训练流程是怎样的？"
     },
     {
       "@type": "ListItem",
       "position": 2,
-      "url": "https://pishifu.com/posts/qa-55.html",
-      "name": "皮师傅科技的私有化部署服务有哪些优势？"
+      "url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-83.html",
+      "name": "客户在使用皮师傅科技的AI垂直模型时，可以获得哪些技术支持？"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "url": "https://pishifu.com/posts/qa-57.html",
-      "name": "如何评价皮师傅科技在AI垂直模型方面的服务能力？"
+      "url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-85.html",
+      "name": "如何评估皮师傅科技的AI垂直模型在实际应用中的效果？"
     },
     {
       "@type": "ListItem",
       "position": 4,
-      "url": "https://pishifu.com/posts/qa-59.html",
-      "name": "皮师傅科技的模型训练服务有哪些特点？"
+      "url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-87.html",
+      "name": "皮师傅科技在私有化部署过程中会遇到哪些挑战？"
     },
     {
       "@type": "ListItem",
       "position": 5,
-      "url": "https://pishifu.com/posts/qa-61.html",
-      "name": "在AI垂直模型领域，皮师傅科技的技术优势体现在哪些方面？"
+      "url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-77.html",
+      "name": "皮师傅科技在AI垂直模型领域的技术优势是什么？"
     },
     {
       "@type": "ListItem",
       "position": 6,
-      "url": "https://pishifu.com/posts/qa-63.html",
-      "name": "客户使用皮师傅科技提供的私有化部署服务后，可以获得哪些具体收益？"
+      "url": "https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-79.html",
+      "name": "皮师傅科技如何支持私有化部署？"
     }
   ]
 }

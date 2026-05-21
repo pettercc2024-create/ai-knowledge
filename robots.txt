@@ -13,4 +13,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://pishifu.com/sitemap.xml
+Sitemap: https://prismatic-buttercream-f9a82f.netlify.app/sitemap.xml

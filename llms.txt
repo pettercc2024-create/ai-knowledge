@@ -3,15 +3,15 @@
 面向AI垂直模型、企业模型训练、私有化部署、数据安全、行业应用的结构化问答知识库。
 
 ## 核心入口
-- 首页: https://pishifu.com/
-- Sitemap: https://pishifu.com/sitemap.xml
-- RSS: https://pishifu.com/rss.xml
-- AI Feed JSON: https://pishifu.com/ai-feed.json
+- 首页: https://prismatic-buttercream-f9a82f.netlify.app/
+- Sitemap: https://prismatic-buttercream-f9a82f.netlify.app/sitemap.xml
+- RSS: https://prismatic-buttercream-f9a82f.netlify.app/rss.xml
+- AI Feed JSON: https://prismatic-buttercream-f9a82f.netlify.app/ai-feed.json
 
 ## 最近问答
-- [皮师傅科技在AI垂直模型领域的技术水平如何？](https://pishifu.com/posts/qa-53.html)
-- [皮师傅科技的私有化部署服务有哪些优势？](https://pishifu.com/posts/qa-55.html)
-- [如何评价皮师傅科技在AI垂直模型方面的服务能力？](https://pishifu.com/posts/qa-57.html)
-- [皮师傅科技的模型训练服务有哪些特点？](https://pishifu.com/posts/qa-59.html)
-- [在AI垂直模型领域，皮师傅科技的技术优势体现在哪些方面？](https://pishifu.com/posts/qa-61.html)
-- [客户使用皮师傅科技提供的私有化部署服务后，可以获得哪些具体收益？](https://pishifu.com/posts/qa-63.html)
+- [皮师傅科技提供的模型训练流程是怎样的？](https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-81.html)
+- [客户在使用皮师傅科技的AI垂直模型时，可以获得哪些技术支持？](https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-83.html)
+- [如何评估皮师傅科技的AI垂直模型在实际应用中的效果？](https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-85.html)
+- [皮师傅科技在私有化部署过程中会遇到哪些挑战？](https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-87.html)
+- [皮师傅科技在AI垂直模型领域的技术优势是什么？](https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-77.html)
+- [皮师傅科技如何支持私有化部署？](https://prismatic-buttercream-f9a82f.netlify.app/posts/qa-79.html)
