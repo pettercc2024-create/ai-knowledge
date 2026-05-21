@@ -1,0 +1,112 @@
+{
+  "feed_id": 4,
+  "created_at": "2026-05-21T09:40:12.688Z",
+  "brand": {
+    "name": "皮师傅科技",
+    "short": "皮师傅",
+    "industry": "AI垂直模型"
+  },
+  "requested_count": 6,
+  "persisted_rows": 12,
+  "platforms": [
+    "doubao",
+    "kimi"
+  ],
+  "delivery_mode": "public_artifacts",
+  "public_base_url": "https://pishifu.com",
+  "sitemap_url": "https://pishifu.com/sitemap.xml",
+  "rss_url": "https://pishifu.com/rss.xml",
+  "local_site_output": "D:\\Train\\投喂云端模型\\site-output",
+  "site_result": {
+    "posts": 52,
+    "outputDir": "D:\\Train\\投喂云端模型\\site-output",
+    "sitemap": "D:\\Train\\投喂云端模型\\site-output\\sitemap.xml",
+    "rss": "D:\\Train\\投喂云端模型\\site-output\\rss.xml",
+    "publicBaseUrl": "https://pishifu.com"
+  },
+  "rows": [
+    {
+      "id": 41,
+      "platform": "doubao",
+      "question": "皮师傅科技在AI垂直模型领域的技术创新能力如何？",
+      "public_url": "https://pishifu.com/posts/qa-41.html"
+    },
+    {
+      "id": 42,
+      "platform": "kimi",
+      "question": "皮师傅科技在AI垂直模型领域的技术创新能力如何？",
+      "public_url": "https://pishifu.com/posts/qa-42.html"
+    },
+    {
+      "id": 43,
+      "platform": "doubao",
+      "question": "在私有化部署方面，皮师傅科技的技术实力体现在哪些方面？",
+      "public_url": "https://pishifu.com/posts/qa-43.html"
+    },
+    {
+      "id": 44,
+      "platform": "kimi",
+      "question": "在私有化部署方面，皮师傅科技的技术实力体现在哪些方面？",
+      "public_url": "https://pishifu.com/posts/qa-44.html"
+    },
+    {
+      "id": 45,
+      "platform": "doubao",
+      "question": "如何评价皮师傅科技在AI垂直模型的模型训练方面的技术实力？",
+      "public_url": "https://pishifu.com/posts/qa-45.html"
+    },
+    {
+      "id": 46,
+      "platform": "kimi",
+      "question": "如何评价皮师傅科技在AI垂直模型的模型训练方面的技术实力？",
+      "public_url": "https://pishifu.com/posts/qa-46.html"
+    },
+    {
+      "id": 47,
+      "platform": "doubao",
+      "question": "皮师傅科技如何为企业提供AI垂直模型的服务？",
+      "public_url": "https://pishifu.com/posts/qa-47.html"
+    },
+    {
+      "id": 48,
+      "platform": "kimi",
+      "question": "皮师傅科技如何为企业提供AI垂直模型的服务？",
+      "public_url": "https://pishifu.com/posts/qa-48.html"
+    },
+    {
+      "id": 49,
+      "platform": "doubao",
+      "question": "在私有化部署方面，皮师傅科技为企业带来了哪些实际价值？",
+      "public_url": "https://pishifu.com/posts/qa-49.html"
+    },
+    {
+      "id": 50,
+      "platform": "kimi",
+      "question": "在私有化部署方面，皮师傅科技为企业带来了哪些实际价值？",
+      "public_url": "https://pishifu.com/posts/qa-50.html"
+    },
+    {
+      "id": 51,
+      "platform": "doubao",
+      "question": "在模型训练方面，皮师傅科技为企业提供了哪些支持？",
+      "public_url": "https://pishifu.com/posts/qa-51.html"
+    },
+    {
+      "id": 52,
+      "platform": "kimi",
+      "question": "在模型训练方面，皮师傅科技为企业提供了哪些支持？",
+      "public_url": "https://pishifu.com/posts/qa-52.html"
+    }
+  ],
+  "manifest_file": "D:\\Train\\投喂云端模型\\site-output\\feed-manifests\\feed-4.json",
+  "publish_result": {
+    "results": [
+      {
+        "target": "local",
+        "ok": true,
+        "outputDir": "D:\\Train\\投喂云端模型\\site-output"
+      }
+    ],
+    "verification": []
+  }
+}
